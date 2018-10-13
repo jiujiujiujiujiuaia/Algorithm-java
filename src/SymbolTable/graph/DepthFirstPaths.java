@@ -6,6 +6,7 @@ import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class DepthFirstPaths {
     private boolean[] marked;
@@ -32,8 +33,8 @@ public class DepthFirstPaths {
         return marked[v];
     }
 
-    public List<Integer> pathTo(int v){
-        ArrayList<Integer> list = new ArrayList<>();
+    public Iterable<Integer> pathTo(int v){
+        Stack<Integer> list = new Stack<>();
         for(int x =v;x!=s;x=edgeTo[x]){
             list.add(x);
         }
