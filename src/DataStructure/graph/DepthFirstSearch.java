@@ -1,6 +1,4 @@
-package SymbolTable.graph;
-
-import javax.xml.crypto.Data;
+package graph;
 
 public class DepthFirstSearch {
     private Graph G;

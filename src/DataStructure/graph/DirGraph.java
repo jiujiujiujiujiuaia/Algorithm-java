@@ -1,4 +1,4 @@
-package SymbolTable.graph;
+package graph;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,4 @@
-package SymbolTable.graph;
-
-import edu.princeton.cs.algs4.Quick;
+package graph;
 
 import java.util.LinkedList;
 import java.util.Queue;

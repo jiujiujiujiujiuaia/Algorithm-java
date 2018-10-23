@@ -1,11 +1,8 @@
-package SymbolTable.graph;
+package graph;
 
-import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class DepthFirstPaths {
