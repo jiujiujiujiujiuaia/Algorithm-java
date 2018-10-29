@@ -1,4 +1,4 @@
-package SymbolTable.base_array_binary_search;
+package DataStructure.SymbolTable.base_array_binary_search;
 
 public class BinarySearchST<K extends Comparable<K>,V> {
 

@@ -1,4 +1,4 @@
-package graph;
+package DataStructure.graph;
 
 import java.util.ArrayList;
 
@@ -14,6 +14,11 @@ public class DirGraph {
             adj[i] = new ArrayList<>();
         }
     }
+
+    public int getV(){
+        return V;
+    }
+
     public void add(int start,int end){
         adj[start].add(end);
         E++;

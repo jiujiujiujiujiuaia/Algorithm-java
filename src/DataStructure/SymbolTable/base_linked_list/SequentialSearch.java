@@ -1,7 +1,6 @@
-package SymbolTable.base_linked_list;
+package DataStructure.SymbolTable.base_linked_list;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 

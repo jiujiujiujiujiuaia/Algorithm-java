@@ -1,8 +1,4 @@
-package SymbolTable.binary_search_tree;
-
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-
-import java.util.ArrayList;
+package DataStructure.SymbolTable.binary_search_tree;
 
 public class BST<K extends Comparable<K>,V> {
     private Node root;

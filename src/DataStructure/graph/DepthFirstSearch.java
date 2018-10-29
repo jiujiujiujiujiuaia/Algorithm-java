@@ -1,4 +1,4 @@
-package graph;
+package DataStructure.graph;
 
 public class DepthFirstSearch {
     private Graph G;
