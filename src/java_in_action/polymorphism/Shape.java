@@ -1,5 +1,7 @@
 package java_in_action.polymorphism;
 
+import java.util.*;
+
 public class Shape {
     private int a = 100;
     Shape(){
@@ -14,6 +16,7 @@ public class Shape {
     public static void main(String[] args){
         Shape s = new Circle();
         s.draw();
-        ((Circle) s).circle();
+        ((Circle) s).circle();//向下转型
+
     }
 }
