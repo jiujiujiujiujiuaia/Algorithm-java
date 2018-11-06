@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/adpater/JapanHotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/adpater/JapanHotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/polymorphism/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/polymorphism/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$StaticInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$StaticInnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$ReaderThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$WriterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_in_action/Thread/Visible.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,13 +30,16 @@
       <FILTER>SymbolTable.*</FILTER>
     </SUITE>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithm" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="LiftOff.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="230">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
               <folding>
                 <element signature="e#210#211#0" expanded="true" />
                 <element signature="e#284#285#0" expanded="true" />
@@ -42,20 +48,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Visible.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Visible.java">
+      <file leaf-file-name="AmazingCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="82" />
+              <folding>
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#1090#1436#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1479#1659#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoatsToSavePeople.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/BoatsToSavePeople.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="345">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#263#430#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,40 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="38" column="15" selection-start-line="29" selection-start-column="13" selection-end-line="38" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-              </folding>
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -105,8 +92,59 @@
       <file leaf-file-name="OutClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="347">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wrapping.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadScopeShareData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="15" column="100" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="100" />
+              <folding>
+                <element signature="e#159#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VolatileUsage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -116,15 +154,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestStaticFinal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/TestStaticFinal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -150,13 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/PlusOne.java" />
-        <option value="$PROJECT_DIR$/src/SymbolTable/graph/DepthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/SymbolTable/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/SymbolTable/graph/BroadFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/TestStaticFinal.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/FinalAndStatic.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/GameLife.java" />
         <option value="$PROJECT_DIR$/src/leetcode/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/SymbolTable/graph/DepthFirstPaths.java" />
         <option value="$PROJECT_DIR$/src/leetcode/NumberofIslands.java" />
@@ -196,10 +218,17 @@
         <option value="$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java" />
         <option value="$PROJECT_DIR$/src/test/Test.java" />
         <option value="$PROJECT_DIR$/src/test/Stack.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/Thread/Visible.java" />
         <option value="$PROJECT_DIR$/src/leetcode/BoatsToSavePeople.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Test.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/Test.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/Visible.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Interface.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Interface2.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" />
       </list>
     </option>
@@ -213,7 +242,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="134" />
     <option name="width" value="1271" />
     <option name="height" value="728" />
@@ -226,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +287,6 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +315,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoatsToSavePeople">
+  <component name="RunManager">
+    <configuration name="AmazingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.AmazingCode" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_in_action.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="BoatsToSavePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.BoatsToSavePeople" />
       <module name="algorithm" />
@@ -304,38 +343,28 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="OutClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.InnerClass.OutClass" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.Test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_in_action.InnerClass.*" />
+          <option name="PATTERN" value="java_in_action.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.polymorphism.Shape" />
+    <configuration name="ThreadScopeShareData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.ThreadScopeShareData" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_in_action.polymorphism.*" />
+          <option name="PATTERN" value="java_in_action.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Visible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.Visible" />
+    <configuration name="VolatileUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.VolatileUsage" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -346,19 +375,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Shape" />
-      <item itemvalue="Application.OutClass" />
-      <item itemvalue="Application.Visible" />
+      <item itemvalue="Application.AmazingCode" />
       <item itemvalue="Application.BoatsToSavePeople" />
+      <item itemvalue="Application.ThreadScopeShareData" />
+      <item itemvalue="Application.VolatileUsage" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AmazingCode" />
+        <item itemvalue="Application.VolatileUsage" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ThreadScopeShareData" />
         <item itemvalue="Application.BoatsToSavePeople" />
-        <item itemvalue="Application.Visible" />
-        <item itemvalue="Application.OutClass" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -387,83 +416,50 @@
       <workItem from="1540987285949" duration="5241000" />
       <workItem from="1541032008800" duration="8250000" />
       <workItem from="1541297625016" duration="11378000" />
+      <workItem from="1541379698708" duration="17519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129174000" />
+    <option name="totallyTimeSpent" value="146693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34879726" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3281787" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19072165" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22336769" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.24809161" />
-      <window_info id="JRebel" order="2" sideWeight="0.5011287" side_tool="true" weight="0.22900763" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32977098" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="JRebel" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28522336" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22336769" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3298969" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="JRebel Executor" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22900763" />
-      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="7" sideWeight="0.50660795" weight="0.25267175" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35628226" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3281787" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.032702237" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22336769" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4945055" visible="true" weight="0.25267175" />
+      <window_info id="JRebel" order="5" sideWeight="0.50549453" side_tool="true" weight="0.25267175" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="6" sideWeight="0.50189394" side_tool="true" weight="0.25267175" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977098" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.57216495" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -473,7 +469,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="91" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="98" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -486,48 +490,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NumberofIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/MakingALargeIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/SumofDistancesinTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/GameLife.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1495">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/DirGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -697,9 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,35 +773,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Visible.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/BoatsToSavePeople.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="5" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#263#430#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -853,10 +807,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" column="100" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="100" />
+          <folding>
+            <element signature="e#159#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="82" />
+          <folding>
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#1090#1436#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1479#1659#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="347">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
