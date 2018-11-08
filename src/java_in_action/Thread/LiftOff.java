@@ -1,5 +1,8 @@
 package java_in_action.Thread;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class LiftOff implements Runnable{
     private int countDown = 10;
     private static int taskDown = 0;
@@ -19,6 +22,5 @@ public class LiftOff implements Runnable{
             Thread thread = new Thread(new LiftOff());
             thread.start();
         }
-
     }
 }

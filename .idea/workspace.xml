@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$InnerClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$StaticInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass$StaticInnerClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/InnerClass/OutClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$ReaderThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible$WriterThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/Visible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/Thread/Visible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/LiftOff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/Thread/LiftOff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +34,52 @@
       <file leaf-file-name="LiftOff.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="483">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoChangeObj.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/NoChangeObj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashedClassNoSafe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClassNoSafe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="16" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashedClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/zhihu_Tutorial/Goal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,16 +88,8 @@
       <file leaf-file-name="AmazingCode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
+            <state relative-caret-position="1058">
               <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="82" />
-              <folding>
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#1090#1436#0" expanded="true" />
-                <element signature="e#1435#1436#0" expanded="true" />
-                <element signature="e#1479#1659#0" expanded="true" />
-                <element signature="e#1658#1659#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -68,62 +97,21 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="207">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#263#430#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionOfTwoLinkedLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/IntersectionOfTwoLinkedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OutClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wrapping.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="230">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -131,10 +119,10 @@
       <file leaf-file-name="ThreadScopeShareData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="15" column="100" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="100" />
+            <state relative-caret-position="230">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="38" />
               <folding>
-                <element signature="e#159#168#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,17 +131,8 @@
       <file leaf-file-name="VolatileUsage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="161">
+              <caret line="7" column="81" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -171,6 +150,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>``</find>
+      <find>run</find>
+      <find>run()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,10 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/UniquePaths.java" />
-        <option value="$PROJECT_DIR$/src/SymbolTable/graph/DepthFirstPaths.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/NumberofIslands.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SumofDistancesinTree.java" />
         <option value="$PROJECT_DIR$/src/SymbolTable/graph/SymbolGraph.java" />
         <option value="$PROJECT_DIR$/src/SymbolTable/graph/DirGraph.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/polymorphism/Tets.java" />
@@ -214,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/DataStructure/graph/MST/Edgr.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/graph/MST/Edge.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/graph/MST/WeightGraph.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java" />
         <option value="$PROJECT_DIR$/src/test/Test.java" />
         <option value="$PROJECT_DIR$/src/test/Stack.java" />
@@ -230,6 +206,11 @@
         <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Interface2.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/NoChangeObj.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClass.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClassNoSafe.java" />
+        <option value="$PROJECT_DIR$/src/java_in_action/Thread/zhihu_Tutorial/Goal.java" />
       </list>
     </option>
   </component>
@@ -255,7 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,14 +260,22 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_in_action" type="462c0819:PsiDirectoryNode" />
-              <item name="InnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihu_Tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,6 +285,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -315,23 +305,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AmazingCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.AmazingCode" />
+  <component name="RunManager" selected="Application.Goal">
+    <configuration name="CashedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.Nochange.CashedClass" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_in_action.Thread.*" />
+          <option name="PATTERN" value="java_in_action.Thread.Nochange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BoatsToSavePeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.BoatsToSavePeople" />
+    <configuration name="CashedClassNoSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.Nochange.CashedClassNoSafe" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="java_in_action.Thread.Nochange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Goal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.zhihu_Tutorial.Goal" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_in_action.Thread.zhihu_Tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LiftOff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.LiftOff" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_in_action.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,28 +353,8 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.Test" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_in_action.Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThreadScopeShareData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.ThreadScopeShareData" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_in_action.Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="VolatileUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.VolatileUsage" />
+    <configuration name="NoChangeObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_in_action.Thread.NoChangeObj" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -375,19 +365,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.AmazingCode" />
-      <item itemvalue="Application.BoatsToSavePeople" />
-      <item itemvalue="Application.ThreadScopeShareData" />
-      <item itemvalue="Application.VolatileUsage" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.LiftOff" />
+      <item itemvalue="Application.NoChangeObj" />
+      <item itemvalue="Application.CashedClass" />
+      <item itemvalue="Application.CashedClassNoSafe" />
+      <item itemvalue="Application.Goal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AmazingCode" />
-        <item itemvalue="Application.VolatileUsage" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ThreadScopeShareData" />
-        <item itemvalue="Application.BoatsToSavePeople" />
+        <item itemvalue="Application.Goal" />
+        <item itemvalue="Application.CashedClass" />
+        <item itemvalue="Application.CashedClassNoSafe" />
+        <item itemvalue="Application.CashedClassNoSafe" />
+        <item itemvalue="Application.NoChangeObj" />
       </list>
     </recent_temporary>
   </component>
@@ -416,15 +406,17 @@
       <workItem from="1540987285949" duration="5241000" />
       <workItem from="1541032008800" duration="8250000" />
       <workItem from="1541297625016" duration="11378000" />
-      <workItem from="1541379698708" duration="17519000" />
+      <workItem from="1541379698708" duration="17632000" />
+      <workItem from="1541492923458" duration="7071000" />
+      <workItem from="1541643660714" duration="1675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146693000" />
+    <option name="totallyTimeSpent" value="155552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -436,7 +428,7 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="7" sideWeight="0.50660795" weight="0.25267175" />
+      <window_info id="Structure" order="7" sideWeight="0.50660795" side_tool="true" weight="0.25267175" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35628226" />
@@ -445,12 +437,11 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.032702237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31466964" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22336769" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4945055" visible="true" weight="0.25267175" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4945055" visible="true" weight="0.18401287" />
       <window_info id="JRebel" order="5" sideWeight="0.50549453" side_tool="true" weight="0.25267175" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" sideWeight="0.50189394" side_tool="true" weight="0.25267175" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,6 +450,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,41 +482,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/DirGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/AccountsMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/WeightQuickUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/QuickFind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -764,12 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,19 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#263#430#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -807,63 +745,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="100" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="100" />
-          <folding>
-            <element signature="e#159#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="82" />
-          <folding>
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#1090#1436#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
-            <element signature="e#1479#1659#0" expanded="true" />
-            <element signature="e#1658#1659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Interface2.java" />
     <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/Wrapping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -872,20 +761,100 @@
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/InnerClass/OutClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="230">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/NoChangeObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/AmazingCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ThreadScopeShareData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/VolatileUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClassNoSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/Nochange/CashedClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/zhihu_Tutorial/Goal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
           </folding>
         </state>
       </provider>
