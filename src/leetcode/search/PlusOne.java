@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.search;
 
 public class PlusOne {
     public int[] plusOne(int[] digits) {

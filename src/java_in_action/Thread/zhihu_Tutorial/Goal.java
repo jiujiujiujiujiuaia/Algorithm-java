@@ -1,7 +1,5 @@
 package java_in_action.Thread.zhihu_Tutorial;
 
-import leetcode.GameLife;
-
 public class Goal implements Runnable{
     private boolean goal ;
 

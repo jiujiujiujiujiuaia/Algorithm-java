@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.search;
 
 
 import edu.princeton.cs.algs4.In;
