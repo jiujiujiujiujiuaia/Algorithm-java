@@ -27,17 +27,17 @@ public class Test {
 //        System.out.println(fill(new LinkedList<>()));
 //        System.out.println(fill(new HashSet<>()));
 //        System.out.println(fill(new TreeSet<>()));
-//        System.out.println(fill(new LinkedHashSet<>()));
-//        System.out.println(fill(new HashMap<>()));
-//        System.out.println(fill(new TreeMap<>()));
-//        System.out.println(fill(new LinkedHashMap<>()));
-
-//              Map map = new HashMap();
-//              map.put(1,"a");
-//              map.put(2,"b");
-//              map.put(3,"c");
-//              Set<Map.Entry> set = map.entrySet();
-//              Iterator<Map.Entry> iterator = set.iterator();
+//        Systemter.out.println(fill(new LinkedHashSet<>()));
+////        System.out.println(fill(new HashMap<>()));
+////        System.out.println(fill(new TreeMap<>()));
+////        System.out.println(fill(new LinkedHashMap<>()));
+//
+////              Map map = new HashMap();
+////              map.put(1,"a");
+////              map.put(2,"b");
+////              map.put(3,"c");
+////              Set<Map.Entry> set = map.entrySet();
+////              Iator<Map.Entry> iterator = set.iterator();
 //              while (iterator.hasNext()){
 //                  Map.Entry entry = iterator.next();
 //                  System.out.println(entry.getKey()+":"+entry.getValue());

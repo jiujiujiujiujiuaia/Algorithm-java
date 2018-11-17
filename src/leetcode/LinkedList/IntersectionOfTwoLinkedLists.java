@@ -1,5 +1,5 @@
-package leetcode.search;
-
+package leetcode.LinkedList;
+//160
 public class IntersectionOfTwoLinkedLists {
     class ListNode {
      int val;
@@ -17,14 +17,13 @@ public class IntersectionOfTwoLinkedLists {
                 tempA = tempA.next;
                 tempB = tempB.next;
             }
-            if (tempA == null) {
-                headB = headB.next;
+
+            if (tempA == null && tempB !=null) {
                 while (tempB != null) {
                     tempB = tempB.next;
                     headB = headB.next;
                 }
-            } else {
-                headA = headA.next;
+            } else if(tempA != null && tempB ==null){
                 while (tempA != null) {
                     tempA = tempA.next;
                     headA = headA.next;
