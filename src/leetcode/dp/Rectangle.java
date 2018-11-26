@@ -1,7 +1,7 @@
 package leetcode.dp;
 
 import edu.princeton.cs.algs4.StdIn;
-
+// not in leetcode
 public class Rectangle {
     private int total ;//矩形的总数
     private int[][] G;//临界矩阵;
