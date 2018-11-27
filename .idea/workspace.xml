@@ -4,18 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/China.java" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/java_in_action/interfaces/Interface3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/ShortestDistancetoaCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/ShortestDistancetoaCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/interfaces/Interface3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/interfaces/adpater/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_in_action/interfaces/adpater/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dp/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,12 +26,8 @@
       <file leaf-file-name="Interface1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="230">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +35,7 @@
       <file leaf-file-name="InvertBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/InvertBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="943">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,22 +47,13 @@
       <file leaf-file-name="SubarraySumEqualsK.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/SubarraySumEqualsK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="207">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="China.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/China.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LIS.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LIS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/dp/LIS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
@@ -86,59 +62,58 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="UnionFind.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/UnionFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestConsecutiveSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-851">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-92">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#186#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-508">
+              <caret line="132" column="47" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="47" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Interface2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="138">
               <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interface3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/Adapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChinaInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/ChinaInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JapanHotel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/JapanHotel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -170,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/adpater/China.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/adpater/JapanHotel.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/interfaces/Son.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/interfaces/abstracts/Son.java" />
         <option value="$PROJECT_DIR$/src/DataStructure/graph/MST/Edgr.java" />
@@ -221,6 +194,8 @@
         <option value="$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SubarraySumEqualsK.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ThreeSum.java" />
       </list>
     </option>
   </component>
@@ -252,7 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -273,23 +247,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearnNetty" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -313,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubarraySumEqualsK">
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration name="HeapOOm" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvm.OOM.HeapOOm" />
       <module name="algorithm" />
@@ -335,6 +303,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LongestConsecutiveSequence" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.ycw.Main" />
       <module name="algorithm" />
@@ -352,16 +330,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ShortestDistancetoaCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ShortestDistancetoaCharacter" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.SubarraySumEqualsK" />
       <module name="algorithm" />
@@ -372,12 +340,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ThreeSum" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,19 +353,19 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.HeapOOm" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ShortestDistancetoaCharacter" />
       <item itemvalue="Application.LIS" />
       <item itemvalue="Application.Processer" />
       <item itemvalue="Application.SubarraySumEqualsK" />
+      <item itemvalue="Application.LongestConsecutiveSequence" />
+      <item itemvalue="Application.ThreeSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
         <item itemvalue="Application.SubarraySumEqualsK" />
         <item itemvalue="Application.Processer" />
         <item itemvalue="Application.LIS" />
-        <item itemvalue="Application.ShortestDistancetoaCharacter" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -439,46 +407,48 @@
       <workItem from="1542692662313" duration="5069000" />
       <workItem from="1542780162530" duration="4085000" />
       <workItem from="1543024410894" duration="7999000" />
+      <workItem from="1543212088862" duration="8256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208429000" />
+    <option name="totallyTimeSpent" value="216685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32977098" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32977098" />
       <window_info anchor="bottom" id="JRebel Executor" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="7" sideWeight="0.50660795" side_tool="true" weight="0.25267175" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39242685" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33907056" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32702237" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22203098" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17211704" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22336769" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4945055" visible="true" weight="0.2427481" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49244714" visible="true" weight="0.22671756" />
       <window_info id="JRebel" order="5" sideWeight="0.50549453" side_tool="true" weight="0.25267175" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="6" sideWeight="0.50189394" side_tool="true" weight="0.25267175" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" sideWeight="0.50755286" side_tool="true" weight="0.22671756" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32874355" />
     </layout>
   </component>
@@ -497,8 +467,14 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="109" />
+      <option name="time" value="114" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -511,14 +487,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1196">
-          <caret line="64" column="37" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/search.fxml" />
     <entry file="file://$PROJECT_DIR$/src/java_in_action/Thread/ResponseUi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -561,24 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86503">
-          <caret line="3840" selection-start-line="3840" selection-end-line="3840" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19619">
           <caret line="892" selection-start-line="892" selection-end-line="892" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3358">
-          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -610,13 +564,6 @@
     <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/WeightQuickUnion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-318">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
@@ -702,10 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,7 +748,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="138">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
@@ -813,13 +756,7 @@
     <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/adpater/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -832,31 +769,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="138">
           <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_in_action/interfaces/Interface1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="230">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/InvertBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="943">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -866,7 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/SubarraySumEqualsK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="207">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
@@ -875,6 +802,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-508">
+          <caret line="132" column="47" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="47" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-851">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#201#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
