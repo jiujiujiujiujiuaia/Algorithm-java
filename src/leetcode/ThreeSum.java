@@ -4,6 +4,7 @@ import java.lang.reflect.Array;
 import java.util.*;
 //没有考虑三个0的情况
 public class ThreeSum {
+    //这个办法效率太低,就是去模拟规则而已，以后尽量不去写这种模拟规则得题目
     private int result ;
     private Set<List<Integer>> arrayList= new HashSet<List<Integer>>();
     public List<List<Integer>> threeSum(int[] nums) {
@@ -61,4 +62,35 @@ public class ThreeSum {
             }
         }
     }
+    //solution2
+    public List<List<Integer>> threeSum2(int[] nums) {
+        int i,j,k;
+        List<List<Integer>> lists = new ArrayList<>();
+        if(nums.length > 2) {
+            Arrays.sort(nums);
+            for (k = 0; k < nums.length - 2; k++) {
+                if (nums[k] > 0) break;
+                if (k > 0 && nums[k] == nums[k - 1]) continue;//关键步骤
+                int target = -nums[k];
+                i = k + 1;
+                j = nums.length - 1;
+                while (j > i) {
+                    if (target == nums[i] + nums[j]) {
+                        lists.add(Arrays.asList(-target, nums[i], nums[j]));
+                        //关键步骤
+                        while (j > i && nums[i + 1] == nums[i]) i++;
+                        while (j > i && nums[j] == nums[j - 1]) j--;
+                        i++;
+                        j--;
+                    } else if (target > nums[i] + nums[j]) {
+                        i++;
+                    } else {
+                        j--;
+                    }
+                }
+            }
+        }
+        return lists;
+    }
+
 }
