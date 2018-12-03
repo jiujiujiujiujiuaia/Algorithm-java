@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/ThreeSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -427,12 +424,12 @@
       <workItem from="1542692662313" duration="5069000" />
       <workItem from="1542780162530" duration="4085000" />
       <workItem from="1543024410894" duration="7999000" />
-      <workItem from="1543212088862" duration="29358000" />
+      <workItem from="1543212088862" duration="30023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237787000" />
+    <option name="totallyTimeSpent" value="238452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
