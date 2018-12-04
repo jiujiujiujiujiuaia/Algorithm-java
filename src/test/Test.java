@@ -86,7 +86,7 @@ public class Test {
 //        for(String c :b){
 //            System.out.println(c);
 //        }
-        write();
+//        write();
     }
 
 }
