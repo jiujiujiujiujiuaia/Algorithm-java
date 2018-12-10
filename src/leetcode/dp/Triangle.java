@@ -11,7 +11,6 @@ public class Triangle {
     public int minimumTotal(List<List<Integer>> triangle) {
         length = triangle.size();
         dp = new Integer[length][length];
-//        dp = init(length);
         return caculate(0,0,triangle);
     }
 

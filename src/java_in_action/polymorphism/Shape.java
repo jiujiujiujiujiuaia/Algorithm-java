@@ -7,8 +7,9 @@ public class Shape {
     Shape(){
         System.out.println("in shape and a = "+a);
     }
-    private void draw() {
+    public Shape draw() {
             ereas();
+            return new Shape();
         }
     private void ereas(){
         System.out.println("shape erase");

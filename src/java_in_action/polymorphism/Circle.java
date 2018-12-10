@@ -4,8 +4,9 @@ public class Circle extends Shape {
     Circle(){
         System.out.println("in circle");
     }
-    public  void draw(){
+    public Circle draw(){
         ereas();
+       return new Circle();
     }
     public void ereas(){
         System.out.println("circle erase");
