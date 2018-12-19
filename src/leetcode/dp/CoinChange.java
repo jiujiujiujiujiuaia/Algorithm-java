@@ -7,7 +7,7 @@ public class CoinChange {
     //1 没有定义好状态 金币不满足的时候到底是什么状态
     //2 没有用优化空间的方法
     //3 无法使用滚动数组加位运算计算次数的方法,因为位运算计算次数需要拿第n个物品 从0到w重量的值，但是滚动数组必须从w开始
-    //wrong 试图使用滚动数组加位运算
+    //wrong 这里使用不了位运算计算次数
     public int coinChange(int[] coins, int amount) {
        if(amount !=0) {
             int[] dp = new int[amount + 1];
@@ -44,9 +44,9 @@ public class CoinChange {
                 for (int j = 0; j <= amount; j++) {
                     int count = j / coins[i];
                     dp[i][j] = dp[i - 1][j];
-                    for (int m = 1; m <= count;m = m<<1) {
+                    for (int m = 1; m <= count;m++) {
                         if (dp[i - 1][j - m * coins[i]] < Integer.MAX_VALUE ){
-                            dp[i][j] = Math.min(dp[i][j], m + dp[i][j - m * coins[i]]);
+                            dp[i][j] = Math.min(dp[i][j], m + dp[i-1][j - m * coins[i]]);
                         }
                     }
                 }
@@ -55,11 +55,36 @@ public class CoinChange {
         }
         else return 0;
     }
+   //right
+    private int coinChange2(int[] coins,int amount){
+        int[] dp = new int[amount+1];
+        for(int i = 1 ; i<=amount;i++){
+            dp[i] = Integer.MAX_VALUE;
+            for(int j = 0;j<coins.length;j++){
+                if(i >= coins[j] && dp[i-coins[j]] !=Integer.MAX_VALUE) dp[i] = Math.min(dp[i],dp[i-coins[j]] + 1);
+            }
+        }
+        return dp[amount] == Integer.MAX_VALUE ? -1:dp[amount];
+    }
+    //优化过了
+    private int coinChange3(int[] coins, int amount ){
+        int[] dp = new int[amount+1];
+        for(int i = 1 ; i<=amount;i++){
+            dp[i] = 0x7ffffffe;
+            for(int j = 0;j<coins.length;j++){
+                if(i >= coins[j] ) dp[i] = Math.min(dp[i],dp[i-coins[j]] + 1);
+            }
+        }
+        return dp[amount] == 0x7ffffffe ? -1:dp[amount];
+    }
+
+
+
 
     public static void main(String[] args) {
-        int[] coins = {1,2,5};
-        int c = 30;
+        int[] coins = {2};
+        int c = 3;
         CoinChange coinChange = new CoinChange();
-        System.out.println(coinChange.coinChange(coins,c));
+        System.out.println(coinChange.coinChange2(coins,c));
     }
 }   

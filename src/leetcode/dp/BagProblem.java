@@ -68,7 +68,7 @@ public class BagProblem {
     //完全背包问题，也就是说每一个物品可以不限量的选取
     //这个思路就是把完全背包问题转化成了背包问题 只不过是每次还有一个循环把次序用完
     //最直观的转化是 用重量除物品i的重量，得到最多能装j个i，然后循环把物品表扩充j个物品的价值和质量，就等价于解决了01背包问题
-    public int completeBagProblem(int c ,int[] values,int[] weight){
+    private int completeBagProblem(int c ,int[] values,int[] weight){
         int[][] dp = new int[values.length][c+1];
         int i ;
         int counts;
@@ -93,7 +93,7 @@ public class BagProblem {
         return dp[values.length-1][c];
     }
     //有一个特别聪明的做法就是，如果有一个物品i价值为1 重量为3 背包容量为18 对于dp[i][18]来说 本来要重复6次 6可以用二进制标识为2+4 那其实只用重复两次(任何数字都可以被二进制表示)
-    public int completeBagProblem2(int c ,int[] values,int[] weight) {
+    private int completeBagProblem2(int c ,int[] values,int[] weight) {
         int[][] dp = new int[values.length][c + 1];
         int i;
         int counts;
