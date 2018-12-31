@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_in_action/collection/Lists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/InvertBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/dp/OnesandZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/dp/OnesandZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/dp/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/dp/WordBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_in_action/collection/ArrayLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/java_in_action/collection/ArrayLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/SameTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/RecursiveAndBinaryTree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,49 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="414">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_in_action/collection/Lists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SameTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SameTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SymmetricTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SymmetricTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="275">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -78,17 +40,62 @@
       <file leaf-file-name="MinimumDepthofBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MinimumDepthofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="350">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
+      <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadFirstSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeLevelsTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BinaryTreeLevelsTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SymmetricTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SymmetricTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BalancedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="37" column="5" selection-start-line="35" selection-start-column="43" selection-end-line="37" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestConsecutiveSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -96,7 +103,7 @@
       <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1050">
+            <state relative-caret-position="10350">
               <caret line="450" column="25" selection-start-line="450" selection-start-column="20" selection-end-line="450" selection-end-column="25" />
               <folding>
                 <element signature="e#15586#15587#0" expanded="true" />
@@ -109,7 +116,7 @@
       <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/System.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
+            <state relative-caret-position="11250">
               <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
             </state>
           </provider>
@@ -139,6 +146,7 @@
       <find>ensureCapacity</find>
       <find>modCount</find>
       <find>add</find>
+      <find>public void add</find>
     </findStrings>
     <dirStrings>
       <dir>C:\souceCode\algorithm</dir>
@@ -151,10 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/adpater/Adapter.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/Interface3.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/Interface1.java" />
-        <option value="$PROJECT_DIR$/src/java_in_action/interfaces/Interface2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SubarraySumEqualsK.java" />
         <option value="$PROJECT_DIR$/src/jvm/classLoad/ClassLoad.java" />
         <option value="$PROJECT_DIR$/src/jvm/classLoad/y.java" />
@@ -193,7 +197,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/dp/BagProblem.java" />
         <option value="$PROJECT_DIR$/src/leetcode/dp/OnesandZeroes.java" />
         <option value="$PROJECT_DIR$/src/leetcode/dp/WordBreak.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MinimumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/InvertBinaryTree.java" />
@@ -202,6 +205,11 @@
         <option value="$PROJECT_DIR$/src/java_in_action/collection/ArrayLists.java" />
         <option value="$PROJECT_DIR$/src/java_in_action/collection/Lists.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SymmetricTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/CountCompleteTreeNodes.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BinaryTreeLevelsTraversal.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -220,7 +228,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1271" />
     <option name="height" value="728" />
@@ -233,6 +241,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,15 +273,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../im-netty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.1484375" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -294,7 +302,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayLists">
+  <component name="RunManager" selected="Application.BinaryTreeLevelsTraversal">
+    <configuration name="BinaryTreeLevelsTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RecursiveAndBinaryTree.BinaryTreeLevelsTraversal" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.RecursiveAndBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.dp.CoinChange" />
       <module name="algorithm" />
@@ -322,16 +340,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="visable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_in_action.collection.Lists" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_in_action.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,11 +388,11 @@
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.OnesandZeroes" />
       <item itemvalue="Application.WordBreak" />
-      <item itemvalue="Application.ArrayLists" />
+      <item itemvalue="Application.BinaryTreeLevelsTraversal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.BinaryTreeLevelsTraversal" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.OnesandZeroes" />
         <item itemvalue="Application.CoinChange" />
@@ -441,46 +449,46 @@
       <workItem from="1544527629424" duration="16449000" />
       <workItem from="1545130746239" duration="20539000" />
       <workItem from="1545221727061" duration="4149000" />
-      <workItem from="1545441628536" duration="10018000" />
+      <workItem from="1545441628536" duration="11779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330807000" />
+    <option name="totallyTimeSpent" value="332568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" order="11" sideWeight="0.5015267" side_tool="true" weight="0.41996557" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32977098" />
-      <window_info anchor="bottom" id="JRebel Executor" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info id="Structure" order="1" sideWeight="0.50660795" side_tool="true" weight="0.25267175" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.12519084" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984733" weight="0.32922733" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3253012" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" visible="true" weight="0.09466437" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" sideWeight="0.5015267" side_tool="true" weight="0.41996557" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32977098" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.51290876" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22203098" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49244714" visible="true" weight="0.30229008" />
-      <window_info id="JRebel" order="6" sideWeight="0.50549453" side_tool="true" weight="0.25267175" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4913295" visible="true" weight="0.28854963" />
+      <window_info id="JRebel" order="6" sideWeight="0.5086705" side_tool="true" weight="0.28854963" />
+      <window_info id="Structure" order="1" sideWeight="0.50660795" side_tool="true" weight="0.25267175" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.12519084" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4984733" visible="true" weight="0.17555939" />
       <window_info id="Favorites" order="7" sideWeight="0.50755286" side_tool="true" weight="0.22671756" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32702237" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -514,7 +522,7 @@
           <option name="timeStamp" value="151" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="156" />
+      <option name="time" value="158" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -541,13 +549,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/RTTI/User.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/RTTI/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/polymorphism/Circle.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/polymorphism/Shape.java" />
-    <entry file="file://$PROJECT_DIR$/src/jvm/classLoad/StaticClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/jvm/classLoad/Singleton.java" />
-    <entry file="file://$PROJECT_DIR$/src/jvm/classLoad/ClassLoad.java" />
     <entry file="file://$PROJECT_DIR$/src/jvm/classLoad/Apply.java" />
     <entry file="file://$PROJECT_DIR$/src/jvm/OverrideAndOverload/OverLoad.java" />
     <entry file="file://$PROJECT_DIR$/src/visable/VisHelper.java" />
@@ -581,28 +582,21 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="450">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="414">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/A.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/InvertBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -657,16 +651,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
+        <state relative-caret-position="10350">
           <caret line="450" column="25" selection-start-line="450" selection-start-column="20" selection-end-line="450" selection-end-column="25" />
           <folding>
             <element signature="e#15586#15587#0" expanded="true" />
@@ -691,51 +678,94 @@
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
+        <state relative-caret-position="11250">
           <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_in_action/collection/Lists.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/CountCompleteTreeNodes.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MinimumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="192" column="36" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        <state relative-caret-position="266">
+          <caret line="84" column="25" lean-forward="true" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_in_action/collection/Lists.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="93">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MinimumDepthofBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/graph/BroadFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="325">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SameTree.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/MaximumDepthofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="150">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BinaryTreeLevelsTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/SymmetricTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestConsecutiveSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="37" column="5" selection-start-line="35" selection-start-column="43" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -15,7 +15,7 @@ public class BroadFirstSearch {
         marked[s] =true;
         while(!queue.isEmpty()){
             int v = ((LinkedList<Integer>) queue).pop();
-            for(int w :G.getNeibour(v)){
+                for(int w :G.getNeibour(v)){
                 if(!marked[w]){
                     marked[w] = true;
                     edgeTo[w] = v;

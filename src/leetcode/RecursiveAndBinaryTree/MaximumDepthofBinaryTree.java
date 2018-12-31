@@ -1,10 +1,13 @@
 package leetcode.RecursiveAndBinaryTree;
 //leetcode 104
 class TreeNode {
-    int val;
+    Integer val;
     TreeNode left;
     TreeNode right;
-    TreeNode(int x) { val = x; }
+    TreeNode(Integer x) { val = x; }
+    TreeNode(){
+
+    }
 }
 public class MaximumDepthofBinaryTree {
 
@@ -13,5 +16,5 @@ public class MaximumDepthofBinaryTree {
         int left = maxDepth(root.left);
         int right = maxDepth(root.right);
         return Math.max(left,right) + 1;
-     }
+    }
 }
