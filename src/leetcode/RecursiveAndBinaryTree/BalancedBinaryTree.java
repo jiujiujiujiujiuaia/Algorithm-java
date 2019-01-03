@@ -11,7 +11,6 @@ public class BalancedBinaryTree {
         if(root == null) return true;
         if(Math.abs(maxDepth(root.left) - maxDepth(root.right)) > 1) return false;
         return isBalanced(root.left) && isBalanced(root.right);
-
     }
 
     private int maxDepth(TreeNode node){

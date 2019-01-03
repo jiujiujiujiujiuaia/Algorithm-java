@@ -23,7 +23,7 @@ public class BinaryTreeLevelsTraversal {
     //这个buildTree函数是了为验证上面层次遍历的方法对不对写（也可以自己从根节点手动一个add，但是那太蠢了不是）
     //为了简化问题，我假设list是从索引1开始的
     //且为了简化，我也没有对lists进行判断，也就是说要求list一定要是一个正确的list
-    private  static TreeNode buildTree(List<Integer> lists){
+    public static TreeNode buildTree(List<Integer> lists){
         TreeNode head = new TreeNode(lists.get(1));
         Queue queue = new LinkedList();
         ((LinkedList) queue).add(head);

@@ -3,6 +3,8 @@ package leetcode.RecursiveAndBinaryTree;
 /**
  * @Author yuchunwei
  * leetcode 111
+ * 这个题的递归终止条件就和112题一样 题目是叶子节点到根节点的最小值
+ * 所以递归终止条件还要判断是不是一个叶子
  */
 public class MinimumDepthofBinaryTree {
     private int minDepth(TreeNode root) {
