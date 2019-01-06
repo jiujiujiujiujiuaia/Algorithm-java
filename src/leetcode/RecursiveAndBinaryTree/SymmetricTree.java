@@ -21,10 +21,8 @@ public class SymmetricTree {
         if(left == null && right == null ) return true;
         if(left == null || right == null ) return false;
         if(left.val == right.val){
-            if(isSubSymmetric(left.right,right.left)){
-                return isSubSymmetric(left.left ,right.right);
-            }
-            else return false;
+                return isSubSymmetric(left.right,right.left)&&
+                 isSubSymmetric(left.left ,right.right);
         }
         return false;
     }

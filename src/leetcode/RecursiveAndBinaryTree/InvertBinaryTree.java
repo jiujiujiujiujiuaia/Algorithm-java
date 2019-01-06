@@ -8,7 +8,7 @@ public class InvertBinaryTree {
         invert1(root);
         return root;
     }
-    //递归
+    //递归 前序
     private void invert1(TreeNode root){
         if(root == null) return ;
         TreeNode leftNode = root.left;
@@ -18,7 +18,7 @@ public class InvertBinaryTree {
         invert1(root.right);
         invert1(root.left);
     }
-    //递归
+    //递归 后序
     private void invert2(TreeNode root){
         if(root == null ) return ;
         invert2(root.left);
