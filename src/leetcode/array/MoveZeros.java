@@ -31,7 +31,7 @@ public class MoveZeros {
             nums[k] = 0;
         }
     }
-    //只找非零元素，[o,k)都是非零元素,无须再补零
+    //只找非零元素，[0,k)都是非零元素,无须再补零
     public void moveZeroes3(int[] nums){
         for(int i = 0, k = 0;i<nums.length;i++){
             if(nums[i] != 0) {
