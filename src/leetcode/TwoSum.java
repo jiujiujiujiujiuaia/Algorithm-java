@@ -5,9 +5,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
-
+//leetcode 1
 public class TwoSum {
-    //效率太低 O(n)的算法
+    //效率太低 O(n^2)的算法
     public int[] twoSum(int[] nums, int target) {
        for(int i = 0;i<nums.length;i++){
            for(int j = 0 ;j<nums.length;j++){

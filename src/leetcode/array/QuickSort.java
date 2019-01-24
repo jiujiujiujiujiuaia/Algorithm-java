@@ -20,8 +20,8 @@ public class QuickSort {
     private int adjArray(int[] nums,int l ,int r){
         //定义基准
         int temp = nums[l];
-        //[l+1 , j] 小于 temp [j + 1 ,i] 大于 temp
-        int j = l ;
+        //[l+1 , j] 小于 temp ,[j + 1 ,i] 大于 temp
+        int j = l ;//j = l 就让两个区间都是失去了意义 这样就算是初始化了
         for(int i = l + 1 ; i <= r ; i++){
             if(nums[i] < temp) {
                 int x = nums[i] ;
@@ -46,5 +46,7 @@ public class QuickSort {
         QuickSort quickSort = new QuickSort();
         quickSort.quickSort(nums,0,length-1);
         System.out.println(Arrays.toString(nums));
+
+
     }
 }   
