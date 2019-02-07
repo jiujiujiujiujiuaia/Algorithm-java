@@ -1,13 +1,10 @@
-package leetcode.array;
-
-import edu.princeton.cs.algs4.QuickBentleyMcIlroy;
+package leetcode.sort;
 
 import java.util.Arrays;
-import java.util.Random;
 
 /**
  * @Author yuchunwei
- * myself
+ * 普通快排序
  */
 public class QuickSort {
 
