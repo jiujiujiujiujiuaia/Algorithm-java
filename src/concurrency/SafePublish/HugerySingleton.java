@@ -11,9 +11,9 @@ public class HugerySingleton {
 
     }
 
-    private HugerySingleton hugerySingleton = new HugerySingleton();
+    private static HugerySingleton hugerySingleton = new HugerySingleton();
 
-    private HugerySingleton getHugerySingleton(){
+    private static HugerySingleton getHugerySingleton(){
         return hugerySingleton;
     }
 }   
