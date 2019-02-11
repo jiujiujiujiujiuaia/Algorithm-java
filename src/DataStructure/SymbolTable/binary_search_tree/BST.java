@@ -1,5 +1,6 @@
 package DataStructure.SymbolTable.binary_search_tree;
 
+//二叉搜索树
 public class BST<K extends Comparable<K>,V> {
     private Node root;
     private int floor;
@@ -82,7 +83,5 @@ public class BST<K extends Comparable<K>,V> {
         Integer a = 10000;
         String b = "1";
         int [] c = {1,2,3};
-
-
     }
 }

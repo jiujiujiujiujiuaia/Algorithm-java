@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.seek;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
