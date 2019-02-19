@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="" />
+    <list default="true" id="e5a7f46a-4f5c-488a-928f-08e8578e6746" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/seek/ContainsDuplicateII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/seek/ContainsDuplicateII.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$USER_HOME$/Desktop/并发/并发代码/Concurrency/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,31 +46,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/MinimumWindowSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberofBoomerangs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/seek/NumberofBoomerangs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountDownUsage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="32" />
+            <state relative-caret-position="-8">
+              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LinkedList/ReverseLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeLevelsTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BinaryTreeLevelsTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="676" column="38" selection-start-line="671" selection-start-column="10" selection-end-line="679" selection-end-column="35" />
+              <folding>
+                <element signature="e#22675#22676#0" expanded="true" />
+                <element signature="e#22703#22704#0" expanded="true" />
+                <element signature="e#44444#44445#0" expanded="true" />
+                <element signature="e#44501#44502#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,7 +94,7 @@
       <file leaf-file-name="SemaphoreTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/SemaphoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="-8">
               <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,64 +106,11 @@
       <file leaf-file-name="CyclicBarrierUsage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CyclicBarrierUsage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="-8">
+              <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContainsDuplicateII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/seek/ContainsDuplicateII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="algorithm.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17319">
-              <caret line="800" selection-start-line="800" selection-end-line="800" />
-              <folding>
-                <element signature="e#8938#8939#0" expanded="true" />
-                <element signature="e#8965#8966#0" expanded="true" />
-                <element signature="e#23735#23736#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1840">
-              <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
-              <folding>
-                <element signature="e#3740#3741#0" expanded="true" />
-                <element signature="e#3777#3778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1403">
-              <caret line="84" column="42" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -180,6 +146,9 @@
       <find>167</find>
       <find>Sum</find>
       <find>leetcode 209</find>
+      <find>state</find>
+      <find>state`</find>
+      <find>206</find>
     </findStrings>
     <dirStrings>
       <dir>C:\souceCode\algorithm</dir>
@@ -192,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/PathSumII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/PathSumIII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/InvertBinaryTree.java" />
@@ -240,9 +208,10 @@
         <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownLatchDemo.java" />
         <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownDemo.java" />
         <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/SemaphoreTest.java" />
-        <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java" />
         <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/CyclicBarrierUsage.java" />
         <option value="$PROJECT_DIR$/src/leetcode/seek/ContainsDuplicateII.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/Demo.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java" />
       </list>
     </option>
   </component>
@@ -280,6 +249,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,15 +273,14 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="seek" type="462c0819:PsiDirectoryNode" />
+              <item name="RecursiveAndBinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicateII">
+  <component name="RunManager" selected="Application.CountDownUsage">
     <configuration name="ContainsDuplicateII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.seek.ContainsDuplicateII" />
       <module name="algorithm" />
@@ -394,6 +363,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.JUCUsage.Demo" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.JUCUsage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="HeapOOm" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvm.OOM.HeapOOm" />
       <module name="algorithm" />
@@ -401,16 +380,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="jvm.OOM.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LearnSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="visable.LearnSwing" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="visable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,18 +404,19 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.HeapOOm" />
-      <item itemvalue="Application.LearnSwing" />
       <item itemvalue="Application.CountDownUsage" />
       <item itemvalue="Application.SemaphoreTest" />
       <item itemvalue="Application.CyclicBarrierUsage" />
       <item itemvalue="Application.ContainsDuplicateII" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDownUsage" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ContainsDuplicateII" />
         <item itemvalue="Application.CyclicBarrierUsage" />
         <item itemvalue="Application.SemaphoreTest" />
-        <item itemvalue="Application.CountDownUsage" />
       </list>
     </recent_temporary>
   </component>
@@ -510,11 +480,12 @@
       <workItem from="1548402194288" duration="19889000" />
       <workItem from="1548941289577" duration="50776000" />
       <workItem from="1550143807725" duration="1232000" />
+      <workItem from="1550282813394" duration="10908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472342000" />
+    <option name="totallyTimeSpent" value="483250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,6 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -540,29 +512,29 @@
       <window_info id="Structure" order="1" sideWeight="0.50660795" side_tool="true" weight="0.25267175" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.12519084" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984733" weight="0.20481928" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984733" weight="0.11703958" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32874355" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3253012" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="5" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32874355" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.29776248" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="1.0" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22203098" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48537004" visible="true" weight="0.3183206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4831081" visible="true" weight="0.2977099" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info id="JRebel" order="6" sideWeight="0.51462996" side_tool="true" weight="0.31221375" />
+      <window_info id="JRebel" order="6" sideWeight="0.5168919" side_tool="true" weight="0.2977099" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32702237" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" sideWeight="0.50755286" side_tool="true" weight="0.22671756" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3253012" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32702237" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32977098" />
     </layout>
   </component>
@@ -629,8 +601,20 @@
           <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrency/JUCUsage/Demo.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1340</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="204" />
+      <option name="time" value="214" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -667,69 +651,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/ValidPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/ReverseVowelsofaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/RemoveDuplicatesfromSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/RemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/KeyIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="38" column="88" selection-start-line="38" selection-start-column="88" selection-end-line="38" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -924,17 +845,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="267">
             <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -967,36 +888,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownLatchDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/SemaphoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CyclicBarrierUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1840">
@@ -1027,6 +918,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="500" column="22" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#2896#2897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="946" selection-start-line="946" selection-end-line="946" />
+          <folding>
+            <element signature="e#36767#36768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/seek/ContainsDuplicateII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1037,8 +965,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CyclicBarrierUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/SemaphoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+          <folding>
+            <element signature="e#5229#5230#0" expanded="true" />
+            <element signature="e#5268#5269#0" expanded="true" />
+            <element signature="e#5391#5392#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/JUCUsage/CountDownUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LinkedList/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RecursiveAndBinaryTree/BinaryTreeLevelsTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="676" column="38" selection-start-line="671" selection-start-column="10" selection-end-line="679" selection-end-column="35" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#44444#44445#0" expanded="true" />
+            <element signature="e#44501#44502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

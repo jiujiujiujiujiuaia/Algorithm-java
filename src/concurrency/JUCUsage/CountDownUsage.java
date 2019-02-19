@@ -42,5 +42,4 @@ public class CountDownUsage {
         System.out.println("比赛结束");
         executorService.shutdown();
         }
-
 }   
