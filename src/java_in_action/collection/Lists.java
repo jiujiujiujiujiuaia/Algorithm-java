@@ -9,15 +9,20 @@ import java.util.List;
  */
 public class Lists {
     public static void main(String[] args) {
-        LinkedList<Integer> linkedList = new LinkedList<>();
-        linkedList.add(10);
-        //ArrayList
-        List<Integer> list = new ArrayList<>();
-        list.add(null);
-        list.add(2);
-        list.add(3);
-        list.add(4);
-        list.add(5);
+        System.out.println("start");
+        List<Integer> list = new LinkedList<>();
+        ((LinkedList<Integer>) list).addFirst(1);
+        ((LinkedList<Integer>) list).addFirst(1);
+        ((LinkedList<Integer>) list).addFirst(1);
+        ((LinkedList<Integer>) list).addFirst(1);
+        ((LinkedList<Integer>) list).addFirst(1);
+        System.out.println(" current size " + list.size());
+        ((LinkedList<Integer>) list).peek();
+        System.out.println("after peek" + list.size());
+
+        System.out.println(" current size " + list.size());
+        ((LinkedList<Integer>) list).poll();
+        System.out.println("after poll" + list.size());
         System.out.println(list.remove(0));
     }
 }
