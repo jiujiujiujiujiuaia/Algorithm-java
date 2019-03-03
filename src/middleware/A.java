@@ -1,4 +1,4 @@
-package algorithm.CommonAlgorithm;
+package middleware;
 
 /**
  * @Author yuchunwei

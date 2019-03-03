@@ -1,4 +1,4 @@
-package algorithm.CommonAlgorithm.sort;
+package algorithm.algorithm4.sort;
 
 import java.util.ArrayList;
 import java.util.List;
