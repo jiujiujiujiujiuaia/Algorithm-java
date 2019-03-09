@@ -7,5 +7,16 @@ public abstract class Parent {
         return "";
     }
 
+    private void a(){
+
+    }
+    public Parent(){
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+
+    }
+
 }
 

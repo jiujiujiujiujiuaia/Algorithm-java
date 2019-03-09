@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @Author yuchunwei
- * algorithm.leetcode
+ * leetcode 88
  */
 public class MergeSortedArray {
     //有点复杂

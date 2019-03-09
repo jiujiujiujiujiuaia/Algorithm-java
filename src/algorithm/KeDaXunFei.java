@@ -2,6 +2,7 @@ package algorithm;
 
 
 import java.util.*;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @Author yuchunwei
@@ -9,7 +10,7 @@ import java.util.*;
  * 集合A中的所有数字和除以集合A的大小，集合B中的所有数字除以集合B的大小 加起来最大 然后输出你分配的结果
  * 最难的地方就是如果有多个结果以字典序最小为准
  */
-public class Main {
+public class KeDaXunFei {
     private static int[] arr ;
 
     private static void solve(int[] index,int sizeA,int sizeB){
@@ -60,6 +61,7 @@ public class Main {
 
 
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
         int[] index = new int[6];
          arr = new int[100000];

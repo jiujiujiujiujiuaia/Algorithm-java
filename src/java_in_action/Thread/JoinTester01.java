@@ -38,7 +38,7 @@ public class JoinTester01 implements Runnable {
             e.printStackTrace();
         }
 
-        System.out.println("Main thread is finished");
+        System.out.println("KeDaXunFei thread is finished");
     }
 
 }

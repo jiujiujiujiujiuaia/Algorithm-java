@@ -1,5 +1,7 @@
 package algorithm.leetcode.LinkedList;
 
+import java.util.List;
+
 //leetcode 21
  class ListNode {
       int val;
@@ -33,6 +35,10 @@ public class MergeTwoSortedLists {
        }
        return head.next;
     }
+
+
+
+
 
     //递归版本
     public ListNode mergeTwoLists2(ListNode l1,ListNode l2){

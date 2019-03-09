@@ -3,6 +3,7 @@ package algorithm.algorithm4.sort;
 import java_in_action.Test;
 
 import java.util.Arrays;
+import java.util.Random;
 
 /**
  * @Author yuchunwei
@@ -11,6 +12,7 @@ import java.util.Arrays;
  * 缺点
  * 1 数据规模小 更推荐插入排序
  * 2 重复数据多,用三路快排
+ * 3 最坏情况会退到o(n^2) 改进方法是应该随机选取标记点
  */
 public class QuickSort implements SortInterface{
 
@@ -33,10 +35,15 @@ public class QuickSort implements SortInterface{
     private int partition(int[] nums,int l ,int r){
         //定义基准
         //优化二  每次选取左边第一个数可能会有最坏情况 应该随机的选区
+//        int temp = nums[l];
+        Random random = new Random();
+        int index = l + random.nextInt() % (r - l);
+        TestSort.exchage(nums,index,l);
         int temp = nums[l];
         //[l+1 , j] 小于 temp ,[j + 1 ,i] 大于 temp
         int j = l ;//j = l 就让两个区间都是失去了意义 这样就算是初始化了
         for(int i = l + 1 ; i <= r ; i++){
+            //每遇到一个小于temp的就替换j+1的位置，扩大j的指针
             if(nums[i] < temp) {
                TestSort.exchage(nums,i,j+1);
                j++;
