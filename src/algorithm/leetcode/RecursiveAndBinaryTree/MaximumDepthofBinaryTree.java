@@ -1,10 +1,10 @@
 package algorithm.leetcode.RecursiveAndBinaryTree;
 //algorithm.leetcode 104
 class TreeNode {
-    Integer val;
+    int val;
     TreeNode left;
     TreeNode right;
-    TreeNode(Integer x) { val = x; }
+    TreeNode(int x) { val = x; }
     TreeNode(){
 
     }

@@ -1,7 +1,6 @@
-package concurrency.JUCUsage;
+package concurrency.JUCUtilUsage;
 
 import java.util.concurrent.CyclicBarrier;
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 

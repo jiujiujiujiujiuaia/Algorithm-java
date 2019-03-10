@@ -1,4 +1,4 @@
-package concurrency.JUCUsage;
+package concurrency.JUCUtilUsage;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

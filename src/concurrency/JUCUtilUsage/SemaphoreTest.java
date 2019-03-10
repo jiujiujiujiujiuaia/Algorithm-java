@@ -1,4 +1,4 @@
-package concurrency.JUCUsage;
+package concurrency.JUCUtilUsage;
 
 /**
  * @Author yuchunwei
