@@ -18,10 +18,10 @@ public class LCS {
                     if(i !=0 && j != 0 ){
                         dp[i][j] = Math.max(dp[i][j-1],dp[i-1][j]);
                     }
-                    else if(i == 0 && j!=0){
+                    else if(i == 0 && j != 0){
                         dp[i][j] = dp[i][j-1];
                     }
-                    else if(j == 0 && i!=0){
+                    else if(j == 0 && i != 0){
                         dp[i][j] = dp[i-1][j];
                     }
                 }
@@ -31,8 +31,8 @@ public class LCS {
     }
 
     public static void main(String[] args) {
-        String a = "ycwzx";
-        String b = "yqcqwqzqxq";
+        String a = "cnblog";
+        String b = "belong";
         System.out.println(solve(b,a));
     }
 }   
