@@ -18,13 +18,13 @@ class Node{
     }
 }
 
-public class LRUCache {
+public class LRUCacheByLinkedNode {
     private final int capacity;
     private int count = 0 ;
     private Node head = new Node(0,0);
     private Node tail = new Node(-1,-1);
     private Node temp ;
-    public LRUCache(int capacity) {
+    public LRUCacheByLinkedNode(int capacity) {
         this.capacity = capacity;
         head.next = tail;
         tail.pre = head;
